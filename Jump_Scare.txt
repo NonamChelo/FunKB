@@ -1,0 +1,17 @@
+REM I open cmd
+
+REM--------Open run--------
+DELAY 1000
+GUI r
+DELAY 500
+REM--------Open cmd--------
+STRING cmd
+DELAY 500
+ENTER
+REM--------Open to Windows Folder--------
+STRING cd C:\Windows
+ENTER
+HOME
+DELAY 100
+REM--------Threaten Death [This would empty the whole folder]--------
+STRING "del and "Sys|tem|32" and Enter"
