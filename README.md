@@ -1,4 +1,5 @@
 Im trying to learn USB Rubber Ducky
+https://docs.hak5.org/hak5-usb-rubber-ducky
 
 Bigmac:
 Opens notepad
