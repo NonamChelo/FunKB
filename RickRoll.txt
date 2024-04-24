@@ -1,0 +1,17 @@
+REM Open Windows PowerShell with USB
+DELAY 3000
+
+REM Open the Run dialog
+WINDOWS r
+DELAY 1000
+
+REM Open Command Prompt
+STRING cmd
+ENTER
+DELAY 1000
+
+REM Open Rick Roll Link
+HOME
+STRING start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 700
+ENTER
