@@ -1,6 +1,8 @@
 Im trying to learn USB Rubber Ducky
 https://docs.hak5.org/hak5-usb-rubber-ducky
 
+These are all designed for Windows
+
 Bigmac:
 Opens notepad
 Prints Hamburger, Cheeseburger, Bigmac, Whopper
@@ -17,3 +19,6 @@ Prints 'Do something' in the prompt
 Order32:
 DELETES System32
 Dont bully me I have not tested Order32 bc I value having a computer
+
+RickRoll:
+Rick Rolls the user's computer
